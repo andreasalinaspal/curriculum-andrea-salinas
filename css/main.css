@@ -602,7 +602,7 @@ input[type="submit"]:focus {
 }
 
 .ps:hover>.ps__scrollbar-y-rail:hover>.ps__scrollbar-y {
-    background-color: #fca072;
+    background-color: var(--sec-font-color);
 }
 
 .ps>.ps__scrollbar-y-rail {
